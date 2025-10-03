@@ -1,0 +1,13 @@
+{
+    "N": 32,
+    "T": 5.0,
+    "K": 1.0,
+    "n_seeds": 3,
+    "freq_distribution": "gradient",
+    "noise_level": 0.01,
+    "seeds": [
+        0,
+        1,
+        2
+    ]
+}
